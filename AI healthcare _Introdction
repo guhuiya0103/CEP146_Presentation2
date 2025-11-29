@@ -1,0 +1,29 @@
+AI in healthcare uses machine-learning and other advanced algorithms to analyze medical data—such as X-rays, CT and MRI scans, lab results, 
+and electronic health records—to support clinical decisions like diagnosis, risk prediction, and treatment planning. Instead of replacing 
+doctors, these systems act as “second readers” that can process huge volumes of data, spot subtle patterns, and provide evidence-based 
+suggestions ([PMC][1]).
+
+Healthcare urgently needs AI because the system faces aging populations, rising chronic disease, staff shortages and exploding amounts of 
+imaging and digital data. Human clinicians are busy and can miss early signs of disease; studies show that AI tools can improve diagnostic 
+accuracy, reduce costs and save time compared with traditional methods, while also reducing some human errors ([ScienceDirect][2]).
+
+In diagnostic imaging, companies are already deploying powerful AI models. Google’s Med-Gemini and related models are trained on chest X-rays,
+CT scans and other medical images to help generate detailed reports and highlight suspicious findings that radiologists might overlook 
+([Google Research][3]). Siemens Healthineers offers AI-based tools that assist with reading scans and claims hundreds of machine-learning
+patents in medical imaging ([Siemens Healthineers][4]). Beyond imaging, autonomous diagnostic AI such as IDx-DR has been authorized by the U.S. 
+FDA to detect diabetic retinopathy directly from retinal photographs, showing how AI can bring specialist-level screening into primary care 
+clinics ([Nature][5]).
+
+**These reliable sources:**
+
+- Google Research blog – *Advancing medical AI with Med-Gemini*
+- Google Health AI model pages (Gemini / Med-Gemma)
+- Siemens Healthineers – *Artificial intelligence in healthcare*
+- BMC Medical Education – *Revolutionizing healthcare: the role of AI…*
+- Nature Digital Medicine – pivotal trial of IDx-DR
+
+[1]: https://pmc.ncbi.nlm.nih.gov/articles/PMC10740686/?utm_source=chatgpt.com "How Artificial Intelligence Is Shaping Medical Imaging ... - NIH"
+[2]: https://www.sciencedirect.com/science/article/pii/S2666990024000132?utm_source=chatgpt.com "AI in diagnostic imaging: Revolutionising accuracy and ..."
+[3]: https://research.google/blog/advancing-medical-ai-with-med-gemini/?utm_source=chatgpt.com "Advancing medical AI with Med-Gemini"
+[4]: https://www.siemens-healthineers.com/en-ca/digital-health-solutions/artificial-intelligence-in-healthcare?utm_source=chatgpt.com "Artificial intelligence in healthcare"
+[5]: https://www.nature.com/articles/s41746-018-0040-6?utm_source=chatgpt.com "Pivotal trial of an autonomous AI-based diagnostic system ..."
